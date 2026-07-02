@@ -49,7 +49,7 @@ Currently I'm looking for my first commercial position where I can continue lear
 
 ## Featured Projects
 
-### 🖥 NawOS
+###  NawOS
 
 A hobby operating system for x86 written in C and Assembly.
 
@@ -63,7 +63,7 @@ A hobby operating system for x86 written in C and Assembly.
 
 ---
 
-### 🖼 File2Img
+###  File2Img
 
 CLI utility that converts arbitrary files into images and restores them back.
 
@@ -71,13 +71,13 @@ Supports multiple encoding methods, including RGB, Grayscale and XOR modes.
 
 ---
 
-### 📷 EXIF Utility
+### EXIF Utility
 
 A utility for reading and working with image metadata.
 
 ---
 
-### 🔍 Hex Viewer
+###  Hex Viewer
 
 Binary file viewer with convenient navigation and hexadecimal representation.
 
@@ -87,9 +87,9 @@ Binary file viewer with convenient navigation and hexadecimal representation.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=zenralit&show_icons=true&hide_border=true&theme=github_dark"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenralit&layout=compact&hide_border=true&theme=github_dark"/>
 
 </p>
 
