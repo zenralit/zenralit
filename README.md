@@ -5,23 +5,14 @@
 <p align="center">
   <b>System Programming • C/C++ • Python • Linux</b>
 </p>
-
-<p align="center">
-  I enjoy understanding how software works beneath the abstraction layer.
-</p>
-
 ---
 
 ## About Me
 
 I'm a software developer passionate about system programming, operating systems and low-level software.
-
 I enjoy building things from scratch to understand how they actually work, whether it's an operating system, a binary file utility or a custom parser.
-
 Besides systems programming, I also have experience with backend and web development using PHP, SQL, HTML, CSS and JavaScript.
-
 Currently I'm looking for my first commercial position where I can continue learning, solve interesting engineering problems and grow as a developer.
-
 ---
 
 ## Tech Stack
@@ -60,41 +51,7 @@ A hobby operating system for x86 written in C and Assembly.
 - shell
 - compiler
 - networking (work in progress)
-
 ---
-
-###  File2Img
-
-CLI utility that converts arbitrary files into images and restores them back.
-
-Supports multiple encoding methods, including RGB, Grayscale and XOR modes.
-
----
-
-### EXIF Utility
-
-A utility for reading and working with image metadata.
-
----
-
-###  Hex Viewer
-
-Binary file viewer with convenient navigation and hexadecimal representation.
-
----
-
-## GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zenralit&show_icons=true&hide_border=true&theme=github_dark"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenralit&layout=compact&hide_border=true&theme=github_dark"/>
-
-</p>
-
----
-
 ## Interests
 
 - Operating Systems
