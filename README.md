@@ -87,7 +87,7 @@ Binary file viewer with convenient navigation and hexadecimal representation.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=zenralit&show_icons=true&hide_border=true&theme=github_dark"/>
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zenralit&show_icons=true&hide_border=true&theme=github_dark"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenralit&layout=compact&hide_border=true&theme=github_dark"/>
 
