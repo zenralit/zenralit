@@ -109,7 +109,7 @@ Binary file viewer with convenient navigation and hexadecimal representation.
 
 ## Contact
 
-contact phone: 89247798940
-email: playcaont@gmail.com
-telegram: https://t.me/Sheeeersh
-LinkedIn: https://www.linkedin.com/in/roman-novikov-2a907841b/
+HH: https://ulan-ude.hh.ru/resume/18b74669ff10a44fb00039ed1f307157794248<br>
+email: playcaont@gmail.com<br>
+telegram: https://t.me/Sheeeersh<br>
+LinkedIn: https://www.linkedin.com/in/roman-novikov-2a907841b/<br>
