@@ -5,15 +5,21 @@
 <p align="center">
   <b>System Programming • C/C++ • Python • Linux</b>
 </p>
+
 ---
 
 ## About Me
 
 I'm a software developer passionate about system programming, operating systems and low-level software.
+
 I enjoy building things from scratch to understand how they actually work, whether it's an operating system, a binary file utility or a custom parser.
+
 Besides systems programming, I also have experience with backend and web development using PHP, SQL, HTML, CSS and JavaScript.
+
 Currently I'm looking for my first commercial position where I can continue learning, solve interesting engineering problems and grow as a developer.
+
 ---
+
 
 ## Tech Stack
 
