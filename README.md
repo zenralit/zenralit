@@ -1,32 +1,26 @@
-<h1 align="center">Hi, I'm Roman Novikov </h1>
-
-<h2 align="center">From bootloaders to web applications. </h1>
+<h1 align="center">Roman Novikov</h1>
 
 <p align="center">
-  <b>System Programming • C/C++ • Python • Linux</b>
+From bootloaders to web applications.
 </p>
 
----
+<p align="center">
+System Programming • C/C++ • Python • Linux
+</p>
 
-## About Me
+## About
 
-I'm a software developer passionate about system programming, operating systems and low-level software.
+I'm a software developer interested in system programming, operating systems and low-level software.
 
-I enjoy building things from scratch to understand how they actually work, whether it's an operating system, a binary file utility or a custom parser.
+I enjoy building software from scratch to understand how it works beneath the abstraction layer - from bootloaders and kernels to binary utilities and web applications.
 
-Besides systems programming, I also have experience with backend and web development using PHP, SQL, HTML, CSS and JavaScript.
+Besides systems programming, I also work with PHP, SQL, HTML, CSS and JavaScript, and enjoy learning new technologies through practical projects.
 
-Currently I'm looking for my first commercial position where I can continue learning, solve interesting engineering problems and grow as a developer.
-
----
-
-
-## Tech Stack
-
-### Languages
+## Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![NASM](https://img.shields.io/badge/NASM-444444?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -34,7 +28,7 @@ Currently I'm looking for my first commercial position where I can continue lear
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
 
-### Tools
+## Tools
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
@@ -42,37 +36,36 @@ Currently I'm looking for my first commercial position where I can continue lear
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 
----
-
-## Featured Projects
+## Featured Project
 
 ###  NawOS
 
 A hobby operating system for x86 written in C and Assembly.
 
+Current features include:
+
 - custom bootloader
-- kernel
-- interrupt handling
-- own file system
+- protected mode kernel
+- interrupt and driver infrastructure
+- custom file system
 - shell
-- compiler
+- programming language
 - networking (work in progress)
----
+
 ## Interests
 
 - Operating Systems
 - System Programming
-- Compilers
 - Computer Architecture
+- Compilers
 - Reverse Engineering
-- Linux
 - Networking
-
----
+- Linux
 
 ## Contact
 
-HH: https://ulan-ude.hh.ru/resume/18b74669ff10a44fb00039ed1f307157794248<br>
-email: playcaont@gmail.com<br>
-telegram: https://t.me/Sheeeersh<br>
-LinkedIn: https://www.linkedin.com/in/roman-novikov-2a907841b/<br>
+**GitHub**  https://github.com/zenralit   
+**HeadHunter**  https://ulan-ude.hh.ru/resume/18b74669ff10a44fb00039ed1f307157794248<br>
+**LinkedIn**  https://www.linkedin.com/in/roman-novikov-2a907841b/   
+**Telegram**  https://t.me/Sheeeersh <br>
+**Email**  playcaont@gmail.com
