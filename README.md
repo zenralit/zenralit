@@ -109,6 +109,7 @@ Binary file viewer with convenient navigation and hexadecimal representation.
 
 ## Contact
 
-GitHub: https://github.com/YOUR_USERNAME
-
-LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+contact phone: 89247798940
+email: playcaont@gmail.com
+telegram: https://t.me/Sheeeersh
+LinkedIn: https://www.linkedin.com/in/roman-novikov-2a907841b/
